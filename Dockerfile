@@ -1,1 +1,1 @@
-FROM debian:8.0
+FROM debian:11.0
