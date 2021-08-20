@@ -2,6 +2,6 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:base",
-    "github>michael-todorovic/renovate-sharedconfig:docker"
+    "github>michael-todorovic/renovate-sharedconfig:docker==1.0.3"
   ]
 }
