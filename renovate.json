@@ -3,6 +3,7 @@
   "extends": [
     "config:base",
     "github>michael-todorovic/renovate-sharedconfig:docker==1.0.3",
-    "github>michael-todorovic/renovate-sharedconfig:helm"
+    "github>michael-todorovic/renovate-sharedconfig:helm",
+    "github>michael-todorovic/renovate-sharedconfig==1.0.0"
   ]
 }
