@@ -6,7 +6,7 @@
     "github>michael-todorovic/renovate-sharedconfig:helm",
     "github>michael-todorovic/renovate-sharedconfig=1.0.0",
     "github>michael-todorovic/renovate-sharedconfig",
-    "@bigmichi1=1.14.0",
+    "@ianwalter=1.4.5",
     "renovate-config-config=0.3.0"
   ]
 }
