@@ -5,8 +5,6 @@
     "github>michael-todorovic/renovate-sharedconfig=1.0.3:docker",
     "github>michael-todorovic/renovate-sharedconfig:helm",
     "github>michael-todorovic/renovate-sharedconfig=1.0.0",
-    "github>michael-todorovic/renovate-sharedconfig",
-    "@ianwalter=1.4.5",
-    "renovate-config-config=0.3.0"
+    "github>michael-todorovic/renovate-sharedconfig"
   ]
 }
