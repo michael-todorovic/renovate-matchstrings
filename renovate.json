@@ -2,9 +2,6 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:base",
-    "github>michael-todorovic/renovate-sharedconfig:folder/helm#1.0.5",
-    "github>michael-todorovic/renovate-sharedconfig:docker#1.0.3",
-    "github>michael-todorovic/renovate-sharedconfig#1.0.0",
-    "github>michael-todorovic/renovate-sharedconfig"
+    "github>michael-todorovic/renovate-sharedconfig#1.0.0"
   ]
 }
